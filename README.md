@@ -10,3 +10,5 @@ Qground Control ## 시뮬레이션 환경상 위치 파악 및 제어
 px4_msgs ## Ros2의 msg 데이터와 PX4 연결 소프트웨어
 
 자율 주행에 활용한 네비게이션 시스템은 google earth api를 활용하여 진행함.
+
+자세한거는 노션에 추가적으로 정리
